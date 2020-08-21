@@ -14,14 +14,17 @@
 ## 📚 Education
 
 **Bachelor Degree** in Computer System Analysis
+
 *[Universidade Veiga de Almeida](https://www.uva.br)*
+
 *Rio de Janeiro, Brazil (2015 - 2019)*
 
 
 ## 💻 Experience
 
 
-###🔒** Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) *(Aug 2019 - Present)*
+###** Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) *(Aug 2019 - Present)*
+
 *Multinational cyber security vendor known for products such as Apex One, Deep Security, Tipping Point and many more*
 
 * Technical Presales Engineer responsible for large enterprise accounts in Rio de Janeiro and Espírito Santo, Brazil;
@@ -34,7 +37,8 @@
 * Analyzing RFPs, RFIs and other sales engineer tasks;
 
 
-###**🔒 Jr DevSecOps** @ [M4U](https://www.m4u.com.br) *(Dec 2017 - Jul 2019)*
+###**Jr DevSecOps** @ [M4U](https://www.m4u.com.br) *(Dec 2017 - Jul 2019)*
+
 *Mobile payment startup focusing on B2B solutions for major phone carriers and credit card*
 
 * Python and bash script security automation with Qualys, Burp Suite, Acunetix, nmap, masscan and Jira;
@@ -44,7 +48,8 @@
 * Assisting with designing apps and AWS infrastructure in accordance to best practice and security principles;
 
 
-###**🔒 SOC Analyst** @ [Proof](https://www.proof.com.br) *(Oct 2016 - Nov 2017)*
+###**SOC Analyst** @ [Proof](https://www.proof.com.br) *(Oct 2016 - Nov 2017)*
+
 *Managed security services provider for all sizes enterprise*
 
 * Supporting and implementing complex monitoring environments with Zabbix, Cacti, AWS and OpenSwan IPSEC;
