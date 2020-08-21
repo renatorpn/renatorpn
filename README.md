@@ -5,7 +5,7 @@
 > Pronouns are he/him/his.
 
 
-[LinkedIn](https://www.linkedin.com/in/renatopnascimento/) / [Twitter](https://twitter.com/renato_rpn) / [Blog](https://renatorpn.github.io/)
+[LinkedIn](https://www.linkedin.com/in/renatopnascimento/) / [Twitter](https://twitter.com/renato_rpn) / [Blog](https://renatorpn.github.io/) / [Email](mailto:renato_rpn@protonmail.com)
 
 ## 🥽 Looking to collaborate on
 * Software development (some skill and experience with Python, Bash, Java, C, Docker and Kubernetes);
