@@ -62,7 +62,7 @@
 * Firewall administration (Palo Alto v6 through v8 and Checkpoint R77.30);
 * Some experience with F5 BIG IP LTM troubleshooting;
 * Advanced network and systems troubleshooting;
-* Writing troubleshooting and documenting echnical procedures guides to promote knowledge sharing;
+* Writing troubleshooting and documenting technical procedures guides to promote knowledge sharing;
 
 
 ### **... And more ➕➕! If you're curious about past experiences, checkout my [LinkedIn](https://www.linkedin.com/in/renatopnascimento/)!**
