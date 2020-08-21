@@ -1,6 +1,6 @@
 # Renato Nascimento
 
-*Security Engineer, occasional developer and doesn't think punk rock is just a phase, mom. Based in Brazil 🇧🇷. Pronouns are He/Him/His *
+*Security Engineer and occasional developer based in Brazil. Punk rock is not just a phase, mom! Pronouns are He/Him/His.*
 
 [LinkedIn](https://www.linkedin.com/in/renatopnascimento/) / [Twitter](https://twitter.com/renato_rpn) / [Blog](https://renatorpn.github.io/)
 
@@ -14,13 +14,15 @@
 ## 📚 Education
 
 **Bachelor Degree** in Computer System Analysis
-[Universidade Veiga de Almeida](https://www.uva.br) - Rio de Janeiro, Brazil **(2015 - 2019)**
+*[Universidade Veiga de Almeida](https://www.uva.br)*
+*Rio de Janeiro, Brazil (2015 - 2019)*
 
 
 ## 💻 Experience
 
-**Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) *(Aug 2019 - Present)*
-Multinational cyber security vendor known for products such as Apex One, Deep Security, Tipping Point and many more
+
+###**✦ Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) *(Aug 2019 - Present)*
+*Multinational cyber security vendor known for products such as Apex One, Deep Security, Tipping Point and many more*
 
 * Technical Presales Engineer responsible for large enterprise accounts in Rio de Janeiro and Espírito Santo, Brazil;
 * Designing, reviewing and implementing security architectures both on premises and cloud based, acting as a trusted advisor;
@@ -32,8 +34,8 @@ Multinational cyber security vendor known for products such as Apex One, Deep Se
 * Analyzing RFPs, RFIs and other sales engineer tasks;
 
 
-**Jr DevSecOps** @ [M4U](https://www.m4u.com.br) *(Dec 2017 - Jul 2019)*
-Mobile payment startup focusing on B2B solutions for major phone carriers and credit card
+###**✦ Jr DevSecOps** @ [M4U](https://www.m4u.com.br) *(Dec 2017 - Jul 2019)*
+*Mobile payment startup focusing on B2B solutions for major phone carriers and credit card*
 
 * Python and bash script security automation with Qualys, Burp Suite, Acunetix, nmap, masscan and Jira;
 * Managing and monitoring security services on AWS (Splunk, OSSEC);
@@ -42,8 +44,8 @@ Mobile payment startup focusing on B2B solutions for major phone carriers and cr
 * Assisting with designing apps and AWS infrastructure in accordance to best practice and security principles;
 
 
-**SOC Analyst** @ [Proof](https://www.proof.com.br) *(Oct 2016 - Nov 2017)*
-Managed security services provider for all sizes enterprise
+###**✦ SOC Analyst** @ [Proof](https://www.proof.com.br) *(Oct 2016 - Nov 2017)*
+*Managed security services provider for all sizes enterprise*
 
 * Supporting and implementing complex monitoring environments with Zabbix, Cacti, AWS and OpenSwan IPSEC;
 * Firewall administration (Palo Alto v6 through v8 and Checkpoint R77.30);
@@ -51,7 +53,7 @@ Managed security services provider for all sizes enterprise
 * Advanced network and systems troubleshooting;
 * Writing troubleshooting and documenting echnical procedures guides to promote knowledge sharing;
 
-**And more! If you're curious about past experiences, checkout my [Linkedin](https://www.linkedin.com/in/renatopnascimento/)!**
+###**And more! If you're curious about past experiences, checkout my [Linkedin](https://www.linkedin.com/in/renatopnascimento/)!**
 
 ## 📃  Certifications
 
@@ -63,7 +65,7 @@ Managed security services provider for all sizes enterprise
 * Trend Micro Tipping Point Expert;
 * Trend Micro Deep Security Professional;
 
-📖Currently studying studying for...
+✍️ Currently studying studying for...
 
 * AWS Solutions Architect
 
