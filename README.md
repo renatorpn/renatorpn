@@ -21,7 +21,7 @@
 ## 💻 Experience
 
 
-###**🔒 Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) *(Aug 2019 - Present)*
+###🔒** Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) *(Aug 2019 - Present)*
 *Multinational cyber security vendor known for products such as Apex One, Deep Security, Tipping Point and many more*
 
 * Technical Presales Engineer responsible for large enterprise accounts in Rio de Janeiro and Espírito Santo, Brazil;
