@@ -1,6 +1,6 @@
 # Renato Nascimento
 
-*Security Engineer and occasional developer based in Brazil. Punk rock is not just a phase, mom! Pronouns are He/Him/His.*
+*Security Engineer ⚙️ and occasional developer based in Brazil. Punk rock is not just a phase, mom! Pronouns are He/Him/His.*
 
 [LinkedIn](https://www.linkedin.com/in/renatopnascimento/) / [Twitter](https://twitter.com/renato_rpn) / [Blog](https://renatorpn.github.io/)
 
@@ -23,9 +23,8 @@
 ## 💻 Experience
 
 
-###** Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) *(Aug 2019 - Present)*
-
-*Multinational cyber security vendor known for products such as Apex One, Deep Security, Tipping Point and many more*
+### 📌 **Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) *(Aug 2019 - Present)*
+*Multinational cyber security vendor known for products such as [Apex One](https://www.trendmicro.com/en_us/business/products/user-protection/sps/endpoint.html), [Deep Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html), [Tipping Point](https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html) and many more*
 
 * Technical Presales Engineer responsible for large enterprise accounts in Rio de Janeiro and Espírito Santo, Brazil;
 * Designing, reviewing and implementing security architectures both on premises and cloud based, acting as a trusted advisor;
@@ -37,7 +36,7 @@
 * Analyzing RFPs, RFIs and other sales engineer tasks;
 
 
-###**Jr DevSecOps** @ [M4U](https://www.m4u.com.br) *(Dec 2017 - Jul 2019)*
+### 📌 **Jr DevSecOps** @ [M4U](https://www.m4u.com.br) *(Dec 2017 - Jul 2019)*
 
 *Mobile payment startup focusing on B2B solutions for major phone carriers and credit card*
 
@@ -48,7 +47,7 @@
 * Assisting with designing apps and AWS infrastructure in accordance to best practice and security principles;
 
 
-###**SOC Analyst** @ [Proof](https://www.proof.com.br) *(Oct 2016 - Nov 2017)*
+### 📌 **SOC Analyst** @ [Proof](https://www.proof.com.br) *(Oct 2016 - Nov 2017)*
 
 *Managed security services provider for all sizes enterprise*
 
@@ -58,7 +57,8 @@
 * Advanced network and systems troubleshooting;
 * Writing troubleshooting and documenting echnical procedures guides to promote knowledge sharing;
 
-###**And more! If you're curious about past experiences, checkout my [Linkedin](https://www.linkedin.com/in/renatopnascimento/)!**
+
+### **And more! If you're curious about past experiences, checkout my [LinkedIn](https://www.linkedin.com/in/renatopnascimento/)!**
 
 ## 📃  Certifications
 
