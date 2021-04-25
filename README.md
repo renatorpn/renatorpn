@@ -1,6 +1,6 @@
 # Renato Nascimento
 
-> Security Engineer and occasional developer based in Brazil. Punk rock is not just a phase, mom! 
+> AppSec 
 >
 > Pronouns are he/him/his.
 
@@ -26,59 +26,22 @@
 ## 💻 Experience
 
 
-### 📌 **Security Engineer / Sales Engineer** @ [Trend Micro](https://trendmicro.com) 
->*(Aug 2019 - Present)*
+### 📌 **Application Security Engineer** @ [Checkmarx](https://checkmarkx.com) 
+>*(Apr 2021 - Present)*
+
+### 📌 **Security Engineer** @ [Trend Micro](https://trendmicro.com) 
+>*(Jul 2019 - Nov 2020)*
 
 *Multinational cyber security vendor known for products such as [Apex One](https://www.trendmicro.com/en_us/business/products/user-protection/sps/endpoint.html), [Deep Security](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html), [Tipping Point](https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html) and [many more](https://www.trendmicro.com/en_us/business/products.html)*
-
-* Technical Presales Engineer responsible for large enterprise accounts in Rio de Janeiro and Espírito Santo, Brazil;
-* Designing, reviewing and implementing security architectures both on premises and cloud based, acting as a trusted advisor;
-* Technical post sales support for partners and customers alike;
-* Supporting the commercial team on campaigns, events and tech talks;
-* Trend Micro Solution Trainer;
-* Helping with DFIR in security incidents and crisis, leveraging solutions;
-* Conducting demos, PoCs and presentations;
-* Analyzing RFPs, RFIs and other sales engineer tasks;
-
 
 ### 📌 **Jr DevSecOps** @ [M4U](https://www.m4u.com.br) 
 >*(Dec 2017 - Jul 2019)*
 
 *Mobile payment startup focusing on B2B solutions for major phone carriers and credit card*
 
-* Python and bash script security automation with Qualys, Burp Suite, Acunetix, nmap, masscan and Jira;
-* Managing and monitoring security services on AWS (Splunk, OSSEC);
-* Managing and assessing PCI scope AWS resources (EC2, VPCs, security groups)
-* Enforcing and assessing compliance of teams tools and practices in accordance to security policies and PCI-DSS;
-* Assisting with designing apps and AWS infrastructure in accordance to best practice and security principles;
 
-
-### 📌 **SOC Analyst** @ [Proof](https://www.proof.com.br) 
+### 📌 **Security Operations Center Analyst** @ [Proof](https://www.proof.com.br) 
 >*(Oct 2016 - Nov 2017)*
 
 *Managed security services provider for all sizes enterprise*
-
-* Supporting and implementing complex monitoring environments with Zabbix, Cacti, AWS and OpenSwan IPSEC;
-* Firewall administration (Palo Alto v6 through v8 and Checkpoint R77.30);
-* Some experience with F5 BIG IP LTM troubleshooting;
-* Advanced network and systems troubleshooting;
-* Writing troubleshooting and documenting technical procedures guides to promote knowledge sharing;
-
-
-### **... And more ➕➕! If you're curious about past experiences, checkout my [LinkedIn](https://www.linkedin.com/in/renatopnascimento/)!**
-
-## 📃  Certifications
-
-* CompTIA Security+ Sy0-401 
-* AWS Certified Cloud Practitioner
-* EXIN Information Security Foundation based on ISO/IEC 27001
-* EXIN ITIL Foundation v3
-* Trend Micro Deep Security Professional;
-* Trend Micro Tipping Point Expert;
-* Trend Micro Deep Security Professional;
-
-✍️ Currently studying studying for...
-
-* AWS Solutions Architect
-
  
